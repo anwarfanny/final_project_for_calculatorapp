@@ -1,0 +1,29 @@
+.input {
+  height: 130px;
+  width: 335px;
+  background-color: black;
+  margin-left: 388px;
+  margin-top: 20px;
+  text-align: right;
+  font-size: 30px;
+  color: white;
+  line-height: 119px;
+}
+.btn {
+  height: 77px;
+  width: 80px;
+}
+.hapus {
+  width: 160px;
+}
+.tombol {
+  width: 335px;
+  height: 405px;
+  margin: auto;
+  background-color: black;
+}
+.btn-danger,
+.btn-success,
+.btn-warning {
+  border-radius: 50%;
+}
